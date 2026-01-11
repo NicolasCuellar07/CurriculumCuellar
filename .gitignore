@@ -1,0 +1,9 @@
+# System
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Env (por si luego agregas backend)
+.env
